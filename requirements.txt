@@ -1,0 +1,6 @@
+Danh sách thư viện cần cài 
+1.Python 3 - ngôn ngữ lập trình chính.
+2.Scikit-learn, XGBoost, RandomForest, DecisionTree - huấn luyện và đánh giá mô hình học máy.
+3.Pandas, NumPy - xử lý và phân tích dữ liệu.
+4.Math – tính toán dữ liệu.
+5.Matplotlib, Plotly, Seaborn - trực quan hóa kết quả.
